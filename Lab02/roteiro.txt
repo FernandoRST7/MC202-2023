@@ -1,0 +1,8 @@
+Roteiro:
+- entrada da matriz a ser analisada (v)
+- depois:
+    - Assim que entrar uma palavra já procura ela
+- como procurar:
+    - procura a primeira na direita, em cima, esquerda, em baixo;
+    - casos especiais:
+        - cantos
